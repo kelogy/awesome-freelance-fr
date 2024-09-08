@@ -80,6 +80,7 @@
 
 + [Abby](https://abby.fr/) (freemium)
 + [Altoviz](https://altoviz.com/fr/) (freemium)
++ [Billisys](https://billisys.com/fr/) (freemium)
 + [Bizyness](https://www.bizyness.fr/) (119€/an)
 + [Dolibarr](https://www.dolibarr.fr/) (free)
 + [Facture.net](https://facture.net) (free)
@@ -162,6 +163,7 @@
 ### Communautés
 
 + [Cowop](https://www.cowop.co) - communauté de coworker et coworking spaces
++ [L'indépendant mobile](https://www.lindependant-mobile.com) - Blog de l'indépendant mobile : conseils et actus
 
 
 ## Outils pro
